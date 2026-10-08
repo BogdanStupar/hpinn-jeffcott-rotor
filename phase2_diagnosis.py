@@ -6,7 +6,7 @@ PARAMETRI = ("dU", "dC", "dD", "U2", "K")
 DETEKCIJA = ("A1", "U2", "K", "NEH", "RAT")
 
 OPIS = {
-    "dU": "Disbalans",
+    "dU": "Dеbalans",
     "dC": "Krutost",
     "dD": "Prigusenje",
     "U2": "Nesaosnost",
