@@ -498,7 +498,7 @@ class RotorGUI:
         print(f"  Pojacanje 1Ω={g1:.2f} 2Ω={g2:.2f} | zdrava orbita "
               f"{A1*100:.0f} % zazora")
         print(f"  Opseg klizaca (do {CILJ*100:.0f} % zazora): "
-              f"disbalans 0-{u1:.2f}, nesaosnost 0-{u2:.2f}, rub 0-{krub:.2f}")
+              f"debalans 0-{u1:.2f}, nesaosnost 0-{u2:.2f}, rub 0-{krub:.2f}")
         self.fig.canvas.draw_idle()
 
     def _osvjezi_sve(self):
